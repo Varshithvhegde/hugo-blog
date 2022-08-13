@@ -2,6 +2,10 @@
 title: "Create Beautiful Readme without Coding"
 date: 2022-08-13T19:46:59+05:30
 draft: false
+cover: 
+    image: https://res.cloudinary.com/practicaldev/image/fetch/s--OfyCb8sI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/obknprfqqiig7rrtrues.png
+    alt: "Readme"
+    caption: "Beautiful Readme"
 editPost:
     URL: "https://github.com/Varshithvhegde/hugo-blog/tree/main/content"
     Text: "Suggest Changes" # edit text
