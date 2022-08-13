@@ -26,3 +26,8 @@ menu:
     name: Home
     url: https://varshithvhegde.me
     weight: 10
+  - identifier: search
+    name: Search
+    url: content/search.md
+    weight: 10
+

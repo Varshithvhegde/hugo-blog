@@ -2,6 +2,10 @@
 title: "Create Beautiful Readme without Coding"
 date: 2022-08-13T19:46:59+05:30
 draft: false
+editPost:
+    URL: "https://github.com/Varshithvhegde/hugo-blog/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true
 ---
 
 Github readme profile is very good way to present yourself.
