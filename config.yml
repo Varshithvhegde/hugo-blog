@@ -3,6 +3,21 @@ languageCode: en-us
 title: My Blogs
 theme: "PaperMod"
 
+params:
+  homeInfoParams:
+    Title: "Hai there, I'm Varshith V Hegde "
+    Content: "Welcome to my blog"
+  socialIcons: 
+    - name: github
+      url: 'https://github.com/Varshithvhegde'
+    - name: website
+      url: 'https://Varshithvhegde.github.io'
+    - name: linkedin
+      url: 'https://linkedin.com/in/varshithvhegde'
+  ShowBreadCrumbs: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+
 menu:
   main:
   - identifier: home
