@@ -16,6 +16,8 @@ params:
       url: 'https://linkedin.com/in/varshithvhegde'
     - name: dev
       url: 'https://dev.to/Varshithvhegde'
+    - name: email
+      url: 'mailto:varshithvh@gmail.com'
   ShowBreadCrumbs: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -28,4 +30,5 @@ menu:
     name: Home
     url: https://varshithvhegde.me
     weight: 10
+    
 
