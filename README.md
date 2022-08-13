@@ -13,12 +13,12 @@ This is a simple blog website developed using [Hugo](https://hugo.spf13.com/) an
 This project is developed to make a blog.
 ## Features
 - This project is dynamically hosted on [Netlify](https://www.netlify.com/)
-- This is a static website generated using [Hugo](https://hugo.spf13.com/)
+- This is a static website generated using [Hugo](https://gohugo.io/)
 - This Simplifies the process of creating a blog  and also makes it easy to maintain the blog.
 -  This project is open source on [Github](https://github.com/Varshithvhegde/hugo-blog)
 
 ## Installation
-To install this project you need to install [Hugo](https://hugo.spf13.com/) and [Netlify](https://www.netlify.com/)
+To install this project you need to install [Hugo](https://gohugo.io/) and [Netlify](https://www.netlify.com/)
 
 ## Workflow
 1. Clone the project from [Github](https://github.com/Varshithvhegde/hugo-blog)
