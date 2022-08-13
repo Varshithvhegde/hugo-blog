@@ -1,10 +1,11 @@
-# My-Blog
+# My-Blog  
 ## Demo 
 [click here](https://symphonious-puffpuff-d7704c.netlify.app/)
 ## Technologies
 <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">  
+
 
 <!--Write document abou this project-->
 ## About
@@ -32,6 +33,9 @@ This project is open source on [Github](https://github.com/Varshithvhegde/hugo-b
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+
+
+
 
 
 
