@@ -1,0 +1,11 @@
+baseURL: 
+languageCode: en-us
+title: My Blogs
+theme: "PaperMod"
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: https://varshithvhegde.me
+    weight: 10
