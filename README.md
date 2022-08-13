@@ -20,6 +20,18 @@ This project is developed to make a blog.
 ## Installation
 To install this project you need to install [Hugo](https://hugo.spf13.com/) and [Netlify](https://www.netlify.com/)
 
+## Workflow
+1. Clone the project from [Github](https://github.com/Varshithvhegde/hugo-blog)
+2. Install Hugo and Netlify
+3.  Run the command `hugo` to generate the static website
+4. Open the website in your browser
+5. Enjoy the blog 
+
+## Contributing
+This project is open source on [Github](https://github.com/Varshithvhegde/hugo-blog)
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
 
 
 
