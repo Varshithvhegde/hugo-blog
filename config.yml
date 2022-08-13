@@ -5,7 +5,7 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: "Hai there, I'm Varshith V Hegde "
+    Title: "Hai there, I'm Varshith V Hegde 👋"
     Content: "Welcome to my blog"
   socialIcons: 
     - name: github
