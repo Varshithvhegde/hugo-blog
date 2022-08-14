@@ -12,9 +12,9 @@ editPost:
     appendFilePath: true
 ---
 
-A personal webpage is a perfect place to let the world know about you and showcase your past accomplishments. Put your resume, your projects, your blogs in with a personalized theme which makes people know you have a great taste: all-in-one! ItΓÇÖs your portfolio displayed online, a small yet cool project you can do with not much effort, why not?
+A personal webpage is a perfect place to let the world know about you and showcase your past accomplishments. Put your resume, your projects, your blogs in with a personalized theme which makes people know you have a great taste: all-in-one! It’s your portfolio displayed online, a small yet cool project you can do with not much effort, why not?
 
-With Github Pages, we can host a personal webpage without bothering about finding a domain name, and with Hugo, we have a variety of themes to choose from. This tutorial uses a Mac OS and will run several command-line in terminal: don't worry absolutely a tutorial for starters! Now, letΓÇÖs start this step-by-step tutorial to set up your personal webpage!
+With Github Pages, we can host a personal webpage without bothering about finding a domain name, and with Hugo, we have a variety of themes to choose from. This tutorial uses a Mac OS and will run several command-line in terminal: don't worry absolutely a tutorial for starters! Now, let's start this step-by-step tutorial to set up your personal webpage!
 
 ## Introduction to HUGO and GitPage
 
