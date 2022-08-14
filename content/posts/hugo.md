@@ -18,7 +18,7 @@ With Github Pages, we can host a personal webpage without bothering about findin
 
 ## Introduction to HUGO and GitPage
 
-Hugo is one of the most popular open-source static site generators and is written in GO. ItΓÇÖs simple, efficient, easy to scale and fast to deploy. Simply install with brew, clone themes you like from Github or the official website [HUGO](https://gohugo.io/), make some changes in the configuration file and deploy, then your page will be online.
+Hugo is one of the most popular open-source static site generators and is written in GO. It's simple, efficient, easy to scale and fast to deploy. Simply install with brew, clone themes you like from Github or the official website [HUGO](https://gohugo.io/), make some changes in the configuration file and deploy, then your page will be online.
 
 [Github Pages](https://pages.github.com/) is a static web hosting service provided by Github, which provides 1GB of free space and provides convenient deployment directly through the Github repository.
 
