@@ -9,7 +9,7 @@
 
 <!--Write document abou this project-->
 ## About
-This is a simple blog website developed using [Hugo](https://hugo.spf13.com/) and [Netlify](https://www.netlify.com/)
+This is a simple blog website developed using [Hugo](https://gohugo.io/) and [Netlify](https://www.netlify.com/)
 ## Why this project?
 This project is developed to make a blog.
 ## Features
