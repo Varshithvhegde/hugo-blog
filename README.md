@@ -1,6 +1,7 @@
 # My-Blog  
 ## Demo 
-[click here](https://symphonious-puffpuff-d7704c.netlify.app/)
+[Netlify Host](https://symphonious-puffpuff-d7704c.netlify.app/)  
+[Github Pages Host](https://varshithvhegde.github.io/hugo-blog/)
 ## Technologies
 <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
