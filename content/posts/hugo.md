@@ -31,15 +31,15 @@ This site uses Hugo and Github Pages to create and deploy. The following briefly
 Open your terminal, run the following command-line one by one:
 - MacOS:   
 ```
-      brew install hugo
+brew install hugo
 ```
 - Linux:
 ```
-      sudo apt install hugo
+sudo apt install hugo
 ```
 - Windows:
 ```
-      scoop install hugo
+scoop install hugo
 ```
 
 To check whether you installed Hugo successfully, enter the following into your terminal
