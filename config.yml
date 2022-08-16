@@ -7,6 +7,10 @@ params:
   homeInfoParams:
     Title: "Hai there, I'm Varshith V Hegde 👋"
     Content: "Welcome to my blog"
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "https://raw.githubusercontent.com/Varshithvhegde/Varshithvhegde.github.io/main/assets/favicon.ico"
   socialIcons: 
     - name: github
       url: 'https://github.com/Varshithvhegde'
@@ -29,6 +33,5 @@ menu:
   - identifier: home
     name: Home
     url: https://varshithvhegde.me
-    weight: 10
-    
+    weight: 10  
 
