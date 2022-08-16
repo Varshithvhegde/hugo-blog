@@ -313,5 +313,9 @@ public class login extends AppCompatActivity {
 
 }
 ```
+
+## Conclusion
+Congratulations! You have successfully set up a personal webpage with Hugo and Github Pages.
+
 ## Example App
 - [Simple SignIn SignUp Source Code](https://github.com/Varshithvhegde/Simple_SignIn_SignUp_Firebase)
