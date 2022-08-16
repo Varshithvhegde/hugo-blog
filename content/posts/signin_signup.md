@@ -315,7 +315,7 @@ public class login extends AppCompatActivity {
 ```
 
 ## Conclusion
-Congratulations! You have successfully set up a personal webpage with Hugo and Github Pages.
+Congratulations! You have successfully created SignIn and SignUp App using Firebase and Android Studio.
 
 ## Example App
 - [Simple SignIn SignUp Source Code](https://github.com/Varshithvhegde/Simple_SignIn_SignUp_Firebase)
