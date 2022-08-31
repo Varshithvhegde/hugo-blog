@@ -68,7 +68,7 @@ Create a new folder and name it "live-web-editor". Inside the folder, create a n
  ```
  For Explanation of the code
  ```javascript
- onkeydown="if(event.keyCode===9){var v=this.value,s=this.selectionStart,e=this.selectionEnd;this.value=v.substring(0, s)+'\t'+v.substring(e);this.selectionStart=this.selectionEnd=s+1;return false;}if(event.keyCode==8){update(1);}
+ onkeydown="if(event.keyCode===9){var v=this.value,s=this.selectionStart,e=this.selectionEnd;this.value=v.substring(0, s)+'\t'+v.substring(e);this.selectionStart=this.selectionEnd=s+1;return false;}if(event.keyCode==8){update(1);}"
  ```
  Above code is used for live rendering of textarea it will automatically render when you type in textarea and also is used enable tab in textarea because by default tab is not enabled in textarea.
 
