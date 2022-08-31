@@ -32,6 +32,6 @@ menu:
   main:
   - identifier: home
     name: Home
-    url: https://varshithvhegde.me
+    url: https://varshithvhegde.github.io
     weight: 10  
 
