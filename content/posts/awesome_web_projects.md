@@ -5,7 +5,7 @@ draft: false
 cover: 
     image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ibp80lhco0vonn67fprc.png
     alt: "Website"
-    caption: "Custom Code Editor"
+    caption: "Web Projects for beginners"
 editPost:
     URL: "https://github.com/Varshithvhegde/hugo-blog/tree/main/content"
     Text: "Suggest Changes" # edit text
