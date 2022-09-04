@@ -13,30 +13,6 @@ editPost:
 ---
 
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Introduction](#introduction)
-- [Hosting](#hosting)
-- [Tools](#tools)
-- [Project 1](#project-1)
-  - [Calculator](#calculator)
-- [Project 2](#project-2)
-  - [Weather App](#weather-app)
-- [Project 3](#project-3)
-  - [Todo List](#todo-list)
-- [Project 4](#project-4)
-  - [Portfolio](#portfolio)
-- [Project 5](#project-5)
-  - [Chat Bot](#chat-bot)
-- [Project 6](#project-6)
-  - [Ecommerce Website](#ecommerce-website)
-- [Project 7](#project-7)
-  - [Blog Website](#blog-website)
-- [Conclusion](#conclusion)
-- [References](#references)
-- [Author](#author)
-
 ## Introduction
 
 This is a list of awesome web projects that I have created. These projects can also be put on your resume. I have created this list to help you decide which projects you can put on your resume. 
