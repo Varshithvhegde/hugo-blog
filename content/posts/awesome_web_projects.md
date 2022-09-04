@@ -12,7 +12,6 @@ editPost:
     appendFilePath: true
 ---
 
-
 ## Introduction
 
 This is a list of awesome web projects that I have created. These projects can also be put on your resume. I have created this list to help you decide which projects you can put on your resume. 
