@@ -14,18 +14,6 @@ editPost:
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [What is Github?](#what-is-github)
-- [What is Git?](#what-is-git)
-- [Why should you use Github?](#why-should-you-use-github)
-- [Features of Github](#features-of-github)
-- [Where and When to use Github?](#where-and-when-to-use-github)
-- [Getting Started with Github](#getting-started-with-github)
-- [How to push code to github from Command Line](#how-to-push-code-to-github-from-command-line)
-- [How to Create Github Readme Profile ?](#how-to-create-github-readme-profile-)
-- [Uses of Github](#uses-of-github)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 
 ## What is Github?
