@@ -11,8 +11,6 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true
 ---
-
-
 ## Introduction
 
 An application program interface (API) is a set of routines, protocols, and tools for building software applications. An API specifies how software components should interact. It can be used to create a new API or extend an existing API. An API can be entirely custom, specific to a component, or it can be designed based on an industry standard to ensure interoperability. An API can be entirely custom, specific to a component, or it can be designed based on an industry standard to ensure interoperability.
