@@ -11,27 +11,6 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true
 ---
-# Create API using Google Sheets for free
-
-## Table of Contents
-
-- [Create API using Google Sheets for free](#create-api-using-google-sheets-for-free)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [What is Google Sheets?](#what-is-google-sheets)
-  - [How to create API using Google Sheets?](#how-to-create-api-using-google-sheets)
-    - [Step 1](#step-1)
-    - [Step 2](#step-2)
-    - [Step 3](#step-3)
-    - [Step 4](#step-4)
-    - [Step 5](#step-5)
-    - [Step 6](#step-6)
-    - [Step 7](#step-7)
-    - [Step 8](#step-8)
-    - [Step 9](#step-9)
-    - [Step 10](#step-10)
-  - [Creating Sample Web Page to show the data](#creating-sample-web-page-to-show-the-data)
-  - [Conclusion](#conclusion)
 
 
 ## Introduction
