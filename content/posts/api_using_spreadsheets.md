@@ -116,7 +116,6 @@ Now you will get a URL. Copy the URL and paste it in your browser. You will get 
 - In this tutorial, we learned how to create an API using Google Sheets.
 - We also learned how to use the API in a web page.
 - For reference, you can check out the [GitHub repository](https://github.com/Varshithvhegde/My_API) for this tutorial.  
-  
-If you have any doubts or suggestions, feel free to comment below.
+
 
 
