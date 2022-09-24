@@ -1,9 +1,9 @@
 ---
 title: "Make your contact form working without using a server"
 date: 2022-09-24T18:10:48+05:30
-draft: true
+draft: false
 cover: 
-    image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ibp80lhco0vonn67fprc.png
+    image: https://res.cloudinary.com/practicaldev/image/fetch/s--qq26nJlf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tf75xoqnbp955j5n2jps.png
     alt: "Website"
     caption: "Web Projects for beginners"
 editPost:
