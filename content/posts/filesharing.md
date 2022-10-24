@@ -5,7 +5,7 @@ draft: false
 cover: 
     image: https://res.cloudinary.com/practicaldev/image/fetch/s--pQuCg7vT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ya3ddwr0o085d8ikmil4.png
     alt: "Website"
-    caption: "Web Projects for beginners"
+    caption: "Web App for sharing files"
 editPost:
     URL: "https://github.com/Varshithvhegde/hugo-blog/tree/main/content"
     Text: "Suggest Changes" # edit text
