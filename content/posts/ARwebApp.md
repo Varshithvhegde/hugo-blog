@@ -108,15 +108,9 @@ So that they can view what is AR without actually downloading any app.
 - Just save the file and open it in the browser.
 - Download the [Marker](https://github.com/Varshithvhegde/Arweb#readme) and print it.
 - Then focus the camera on the marker and you will see the 3D model.
-
-### Demo Video
-
-{% embed https://user-images.githubusercontent.com/80502833/197395745-2a871851-00b1-4da5-92fc-5b9ce567150a.mp4 %}
-
 ## Conclusion
 
 - I hope you enjoyed this tutorial. If you have any questions, feel free to ask in the comments section below.
 - Comment your thoughts and suggestions below.
-- Code is available on my Github
-{% embed https://github.com/Varshithvhegde/Arweb %}
+- Code is available on my [Github](https://github.com/Varshithvhegde/Arweb)
 - For Live Demo [Click Here](https://varshithvhegde.github.io/Arweb)
